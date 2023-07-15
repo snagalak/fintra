@@ -1,0 +1,31 @@
+
+
+
+body {
+  padding: 2rem;
+  background-color: #e30088;
+}
+
+button {
+  margin: 27rem 36rem;
+  padding: 1rem 2rem;
+  width: 180px;
+  cursor: pointer;
+  background-color: #FFFFFF;
+  border: none;
+  border-radius: 12px;
+  font-family: 'Quicksand';
+  
+}
+
+img {
+  width: 520px;
+  left: 300;
+}
+
+.center {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
