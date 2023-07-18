@@ -7,6 +7,9 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,azure,js,figma,react,vscode">
 </p>
+<p align="center" style="font-size:240px;">
+<b>Won Best Financial Hack powered by Capital One & Best AI Hack at TechTogether Online (July 2023)</b>
+</p>
 
 - - - 
 
